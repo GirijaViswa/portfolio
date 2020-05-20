@@ -1,38 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap');
 .App {
   text-align: center;
+  width: 100%;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: x-large;
+  word-wrap: break-word;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Side-bar{
+  width: 30%;
+  margin-left: 70%;
+  background-color: #e2e3e6;
+  height: 100%;
+  position: fixed;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Side-bar-img img{
+  width: 60%;
+  height: 30%;
+  padding: 3%;
+  top: 2%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Side-bar-img p{
+  color: #e2e3e6;
+  font-size: x-small;
 }
-
-.App-link {
-  color: #61dafb;
+.title{
+  font-family: 'Playfair Display', serif;
+  font-size: x-large;
+  font-size: xx-large;
+  word-wrap: break-word;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+i{
+  word-wrap: break-word;
+}
+.links ul{
+  list-style: none;
+  word-wrap: break-word;
+}
+.links ul li{
+  background-color: whitesmoke;
+  width: 50%;
+  padding: 3%;
+  border-radius: 50%;
+  text-align: center;
+}
+.links ul li a{
+  text-decoration: none;
+  color: blue;
+  word-wrap: break-word;
+}
+.links ul li a:focus{
+  color: red;
+}
+.links ul li a:hover{
+  color: black;
+}
+.Main-content{
+  /* margin-left: 30%;  */
+  height: 100%;
+  width: 71.5%;
+}
+.Main-content-pic{
+  box-sizing: border-box;
+  width: 98%;
+  height: auto;
+  /* background-image: url('./images/GV1.jpeg'); */
+  float: left;
+  position: relative;
+  background-blend-mode: lighten ;
+  display: block;
+  z-index: 1;
+  object-fit: screen;
+  font-stretch: expanded;
+  background-repeat: no-repeat;
+}
+.Hello{
+  margin-top: 10%;
+  vertical-align: middle;
+  color: black;
+  height: 200%;
+  font-family: 'Playfair Display', serif;
+  font-size: xxx-large;
+}
+.Spacer{
+  height: 500px;
+  width: auto;
+}
+.About-section{
+  padding: 8%;
+  padding-top: 2%;
+  color: black;
+  background-color: whitesmoke;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: x-large;
+}
+.Question{
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 18px;
+  text-align: left;
+}
+.Side-bar-footer ul li{
+  list-style: none;
+  display: inline-flex;
+  gap: 2px;
 }
