@@ -21,8 +21,8 @@ function App() {
           <div className="links">
               <ul>
               <center><li><Link to="/about" className="Links">About</Link></li></center><br/>
-              <center><li><Link to="/experience" className="Links">Experience</Link></li></center><br/>
-              <center><li><Link to="/myinterest" className="Links">My Interest</Link></li></center><br/>
+              <center><li><Link to="/profession" className="Links">Profession</Link></li></center><br/>
+              <center><li><Link to="/passion" className="Links">Passion</Link></li></center><br/>
               </ul>
           </div>
           <div className="Side-bar-footer">
@@ -39,8 +39,8 @@ function App() {
         
         <Switch>
           <Route exact path="/about" component={About} active/>
-          <Route exact path="/experience" component={Experience} />
-          <Route exact path="/myinterest" component={Presentation} />
+          <Route exact path="/profession" component={Experience} />
+          <Route exact path="/passion" component={Presentation} />
           <Route path="/" component={About} />
         </Switch>
 
