@@ -72,7 +72,7 @@ i{
   box-sizing: border-box;
   width: 98%;
   height: auto;
-  background-image: url('./images/GV1.jpeg');
+  background-image: url('./images/GV1.jpeg'); 
   background-repeat: no-repeat;
   background-size: 100%;
   backdrop-filter: initial;

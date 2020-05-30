@@ -2,6 +2,8 @@ import React from 'react';
 import '../ToStyleCompo.css';
 // import Slider from './Slider.js';
 import SimpleImageSlider from "react-simple-image-slider";
+import ft from './Exp-pic/ft.png';
+import wt from './Exp-pic/wipro-logo.jpg';
 import b1 from './Blogs-pic/B1.png';
 import b2 from './Blogs-pic/B2.png';
 import b3 from './Blogs-pic/B3.png';
@@ -44,6 +46,8 @@ function Profession(){
                         <li>Jira</li>
                     </ul>
                 </div>
+                <br/>
+                <hr/>
 
 {/* Blogs */}
                 <div className="Blogs-Section">
@@ -65,10 +69,49 @@ function Profession(){
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
                     {/* <Slider slides={images} /> */}
                 </div>
-                
+                <br/>
+                <hr/>
+
 {/* Experience */}
+                <div className="Experience">
+                    <h3>Experience</h3>
+                    <div className="VLine">
+                        <ul>
+                            <div className="logo">
+                                <img src={ft} alt="Flatiron Coding Bootcamp"/>
+                            </div>
+                            <div className="Content-box2">
+                            <li>Attended Immersive Coding Bootcamp
+                                <ul>
+                                <li>Worked on building Single Page Applications using React and Redux</li>
+                                <li>Created SPA using Babel transpiler and Webpack bundler.</li>
+                                <li>Experienced in working with many APIs like edumam, tropicalfruitandveg, US Restaurants Menus.</li>
+                                <li>Worked on integrating third-party payment module - Stripe Checkout </li>
+                                <li>Modeled database schema with ActiveRecord, Postgres and Ruby on Rails.</li>
+                                <li>Process of Authentication using encrypted tokens via JWT</li>  
+                                </ul>
+                            </li>
+                            </div><br/>
+                            
+                            <div className="logo">
+                                <img src={wt} alt="Wipro Technologies"/>
+                            </div>
+                            <div className="Content-box1">
+                                
+                            <li>Worked for Clients National Grid and Standard Bank of South Africa
+                            <ul>
+                                <li>Trained and worked on SAP ABAP scripts</li>
+                                <li>Generated Smartforms, Reports, Forms</li>
+                                <li>Worked on Exits, BAPI, LSMW</li>
+                                <li>Made Performance Tuning functionalities using ST05 and other tcodes.</li>
+                                <li>Developed requirements document, user report, test case documents for the respective programs created.</li>
+                            </ul></li>
+                            </div> <br/>
+                        </ul>
+                    </div>
+
+                </div>
             </div>
-            {/* <Slider /> */}
         </div>
         
     )
