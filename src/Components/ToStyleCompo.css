@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caladea:ital,wght@1,700&display=swap');
+.Passion-Content, .Profession-Content{
+    background-color: aliceblue;
+    float: left;
+    width: 98%;
+    border: 1%;
+    font-family: 'Caladea', serif;
+    font-size: x-large;
+}
+.Passion-Content-Header{
+    padding: 5%;
+    display: flex;
+    padding-bottom: 0%;
+}
+.Passion-Content-Header p{
+    padding: 2%;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    text-align: justify;
+    font-size: xx-large;
+    padding-bottom: 0%;
+}
+.Passion-Content-Header img{
+    width: 15%;
+    height: 15%;
+}
+.Passion-Maintext, .Profession-Maintext{
+    padding: 5%;
+    padding-top: 0%;
+    text-align: justify;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size: xx-large;
+}
+.Passion-Maintext img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50px;
+}
+.Passion-Content-Header a img{
+    width: 90%;
+    height: 85%;
+}
+.Profession-Maintext .Skillset ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+    column-gap: 5%;
+    row-gap: 12%;
+}
+.Profession-Maintext .Skillset ul li{
+    padding: 1%;
+    background-color: khaki;
+    box-shadow:0 0 0 5px rgb(205, 188, 42) ;
+    color: rgb(116, 14, 116);
+    text-align: center;
+    font-weight: bold;
+    
+}
+.Blogs-Section{
+    padding: 2%;
+}
+.Blogs-Section-Content{
+    display: flex;
+}
+.Blogs-Section-Content .Image-Slider{
+    width: 70%;
+    float: left;
+}
+.Blogs-Section-Content .Links{
+    width: 30%;
+    float: right;
+}

@@ -11,7 +11,8 @@ function About(){
         <div className="About-content">
            <div className="Main-content-pic">
                 <div className="Hello">
-                    <div className="Spacer">Hi! &nbsp; I'm Girija
+                    <div className="Spacer">
+                        Hi! &nbsp; I'm Girija
                         <p><a href="#projects"><i class="fa fa-briefcase"></i>  My Projects</a></p>
                     </div> 
                 </div>

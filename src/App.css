@@ -1,16 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap');
+body{
+  padding: 0;
+}
 .App {
   text-align: center;
   width: 100%;
   font-family: 'Fira Sans', sans-serif;
   font-size: x-large;
   word-wrap: break-word;
+  margin: 0,0;
+  padding: 0;
 }
 .Side-bar{
   width: 30%;
   margin-left: 70%;
-  background-color: #e2e3e6;
+  /* background-color: #e2e3e6; */
+  /* background-color: rgba(245, 207, 110, 0.886); */
+  /* background-image: linear-gradient(to top left,#ff8a00,#e52e71); */
+  background-image: linear-gradient(to top left,#f29326,#f2357a);
   height: 100%;
   position: fixed;
 }
@@ -58,46 +66,18 @@ i{
 .Main-content{
   /* margin-left: 30%;  */
   height: 100%;
-  width: 71.5%;
+  width: 74%;
 }
 .Main-content-pic{
   box-sizing: border-box;
   width: 98%;
   height: auto;
-  /* background-image: url('./images/GV1.jpeg'); */
+  background-image: url('./images/GV1.jpeg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  backdrop-filter: initial;
   float: left;
   position: relative;
-  background-blend-mode: lighten ;
-  display: block;
-  z-index: 1;
-  object-fit: screen;
-  font-stretch: expanded;
-  background-repeat: no-repeat;
-}
-.Hello{
-  margin-top: 10%;
-  vertical-align: middle;
-  color: black;
-  height: 200%;
-  font-family: 'Playfair Display', serif;
-  font-size: xxx-large;
-}
-.Spacer{
-  height: 500px;
-  width: auto;
-}
-.About-section{
-  padding: 8%;
-  padding-top: 2%;
-  color: black;
-  background-color: whitesmoke;
-  font-family: 'Fira Sans', sans-serif;
-  font-size: x-large;
-}
-.Question{
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 18px;
-  text-align: left;
 }
 .Side-bar-footer ul li{
   list-style: none;

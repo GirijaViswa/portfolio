@@ -8,6 +8,19 @@ function Experience(){
         <div className="Experience-content">
             <div className="Main-Comp-Content">
                 <div className="Expt"> HIGHLIGHTS</div><br/>
+                My Expertise
+                <div className="Skill-set">
+                    
+                    <ul>
+                        <li>Ruby</li>
+                        <li>Ruby on Rails</li>
+                        <li>Javascript</li>
+                        <li>React</li>
+                        <li>Redux</li>
+                        <li>Python</li>
+                        <li>MySQL</li>
+                    </ul>
+                </div>
                 <div className="VLine">
             
                         <ul>

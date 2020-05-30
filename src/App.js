@@ -3,8 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import gv1 from './images/GV-closeup.jpeg';
 import About from './Components/Home/About.js'
-import Experience from './Components/Experience/Experience.js';
-import Presentation from './Components/Presentation/Presentation.js';
+import Profession from './Components/Profession/Profession.js';
+import Passion from './Components/Passion/Passion.js';
 import 'font-awesome/css/font-awesome.min.css';
 
 function App() {
@@ -39,8 +39,8 @@ function App() {
         
         <Switch>
           <Route exact path="/about" component={About} active/>
-          <Route exact path="/profession" component={Experience} />
-          <Route exact path="/passion" component={Presentation} />
+          <Route exact path="/profession" component={Profession} />
+          <Route exact path="/passion" component={Passion} />
           <Route path="/" component={About} />
         </Switch>
 
