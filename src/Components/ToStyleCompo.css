@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caladea:ital,wght@1,700&display=swap');
-.Passion-Content, .Profession-Content{
+.Passion-Content, .Profession-Content, .About-content{
     background-color: aliceblue;
     float: left;
     width: 98%;
     border: 1%;
     font-family: 'Caladea', serif;
     font-size: x-large;
+    word-wrap: break-word;
 }
 .Passion-Content-Header{
     padding: 5%;
@@ -56,7 +57,7 @@
     font-weight: bold;
     
 }
-.Blogs-Section, .Experience{
+.Blogs-Section, .Experience, .Project-Section{
     padding: 2%;
 }
 .Blogs-Section-Content{
@@ -67,6 +68,7 @@
     float: left;
 }
 .Blogs-Section-Content .Links{
+    padding: 4%;
     width: 30%;
     float: right;
 }
@@ -99,4 +101,46 @@
     height: 7%;
     margin-left: -15%;
     border: solid 3px;
-  }
+}
+.About-content{
+    width: 70%;
+    float: left;
+    background-image: url('../images/GV1.jpeg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    position: fixed;
+    word-wrap: break-word;
+
+}
+.Main-Pic h1{
+    padding: 5%;
+    margin-top: 12% ;
+    float: right;
+    word-wrap: break-word;
+
+}
+.Intro{
+    padding: 1%; 
+    width: 65%;
+    bottom: 0;
+    position: fixed;
+    word-wrap: break-word;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2%;
+}
+.Intro h2{
+    word-wrap: break-word;
+    padding: 2%;
+    background-image: linear-gradient(to top left,rgb(21, 167, 21),rgba(50, 241, 255, 0.687));
+    /* background-image: linear-gradient(to top left,rgba(50, 241, 255, 0.687),rgb(21, 167, 21)); */
+    color: ivory;
+  /*background-image: linear-gradient(to top left,rgb(244, 244, 19),rgb(21, 167, 21)); */
+}
+.Intro h2 span{
+    color: rgb(223, 44, 44);
+}

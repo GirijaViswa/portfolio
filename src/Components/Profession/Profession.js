@@ -1,6 +1,5 @@
 import React from 'react';
 import '../ToStyleCompo.css';
-// import Slider from './Slider.js';
 import SimpleImageSlider from "react-simple-image-slider";
 import ft from './Exp-pic/ft.png';
 import wt from './Exp-pic/wipro-logo.jpg';
@@ -17,12 +16,6 @@ const images = [
     {url: b4 },
     {url: b5 }
 ];
-// const images = [
-//     'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80',
-//     'https://images.unsplash.com/photo-1470341223622-1019832be824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2288&q=80',
-//     'https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2094&q=80',
-//     'https://images.unsplash.com/photo-1534161308652-fdfcf10f62c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2174&q=80'
-//   ]
 
 function Profession(){
     return(
@@ -72,15 +65,45 @@ function Profession(){
                 <br/>
                 <hr/>
 
+{/* Projects */}
+                <div className="Project-Section">
+                    <h3>My Projects</h3>
+                    <div className="Image-Slider">
+                        {/* <SimpleImageSlider width={800} height={504} images={videos} /> */}
+                        Here is the demo of my project.<br/>
+                        <iframe width="760" height="415" src="https://www.youtube.com/embed/U_oQsWRu6I4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br/>Here is the outlined code workthrough for the project.<br/>
+                        <iframe width="760" height="415" src="https://www.youtube.com/embed/HsLJEWY1MPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    
+                    </div>
+
+                </div>
+                <br/>
+                <hr/>
+
 {/* Experience */}
                 <div className="Experience">
                     <h3>Experience</h3>
                     <div className="VLine">
                         <ul>
                             <div className="logo">
-                                <img src={ft} alt="Flatiron Coding Bootcamp"/>
+                                <img src={wt} alt="Wipro Technologies"/>
                             </div>
                             <div className="Content-box2">
+                                
+                            <li>Worked for Clients National Grid and Standard Bank of South Africa
+                            <ul>
+                                <li>Trained and worked on SAP ABAP scripts</li>
+                                <li>Generated Smartforms, Reports, Forms</li>
+                                <li>Worked on Exits, BAPI, LSMW</li>
+                                <li>Made Performance Tuning functionalities using ST05 and other tcodes.</li>
+                                <li>Developed requirements document, user report, test case documents for the respective programs created.</li>
+                            </ul></li>
+                            </div> <br/>
+                            <div className="logo">
+                                <img src={ft} alt="Flatiron Coding Bootcamp"/>
+                            </div>
+                            <div className="Content-box1">
                             <li>Attended Immersive Coding Bootcamp
                                 <ul>
                                 <li>Worked on building Single Page Applications using React and Redux</li>
@@ -92,21 +115,8 @@ function Profession(){
                                 </ul>
                             </li>
                             </div><br/>
-                            
-                            <div className="logo">
-                                <img src={wt} alt="Wipro Technologies"/>
-                            </div>
-                            <div className="Content-box1">
-                                
-                            <li>Worked for Clients National Grid and Standard Bank of South Africa
-                            <ul>
-                                <li>Trained and worked on SAP ABAP scripts</li>
-                                <li>Generated Smartforms, Reports, Forms</li>
-                                <li>Worked on Exits, BAPI, LSMW</li>
-                                <li>Made Performance Tuning functionalities using ST05 and other tcodes.</li>
-                                <li>Developed requirements document, user report, test case documents for the respective programs created.</li>
-                            </ul></li>
-                            </div> <br/>
+
+                            My journey continues ...
                         </ul>
                     </div>
 

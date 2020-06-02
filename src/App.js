@@ -14,10 +14,10 @@ function App() {
       <Router>
       <div className="Side-bar">
         <div className="Side-bar-img">
-          <p>Shri RamaJayam</p>
+          <p hidden>Shri RamaJayam</p>
           <img src={gv1} alt="Girija's pic"></img>
           <div className="title"><b>Girija Viswanathan</b></div><br/>
-          <i className="fa fa-envelope-o"></i> &nbsp;girijavmohan@gmail.com<br/>
+          {/* <i className="fa fa-envelope-o"></i> &nbsp;girijavmohan@gmail.com<br/> */}
           <div className="links">
               <ul>
               <center><li><Link to="/about" className="Links">About</Link></li></center><br/>
@@ -28,6 +28,7 @@ function App() {
           <div className="Side-bar-footer">
             <ul>
               <li><a href="https://www.linkedin.com/in/girijaviswa" target="_blank"><i class="fa fa-linkedin"></i></a></li>&nbsp;&nbsp;
+              <li><a href="mailto:girijavmohan@gmail.com" target="_blank"><i className="fa fa-envelope-o"></i></a></li>&nbsp;&nbsp;
               {/* <li><a href=""><i class="fa fa-github"></i></a></li>&nbsp;&nbsp;
               <li><a href=""><i class="fa fa-facebook-f"></i></a></li>&nbsp;&nbsp; */}
             </ul>

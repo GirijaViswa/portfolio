@@ -34,7 +34,7 @@ function Passion(){
                 <p>
                 On the other hand, I am an avid cook. I love the process of researching new recipes and testing them out. I even run my 
                     own YouTube channel "
-                    <a href="https://www.youtube.com/channel/UCWOZSyM96xGlo6ng3ztWU_A" target="_blank"><b>Kothai Foods </b></a> ", 
+                    <a href="https://www.youtube.com/channel/UCWOZSyM96xGlo6ng3ztWU_A" target="_blank"><b>Kothai Foods</b></a>", 
                     where you can tune in and try out new drooling dishes. 
                 
                     PS: Don’t forget to hit the subscribe button 😜.
