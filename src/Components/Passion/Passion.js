@@ -26,7 +26,7 @@ function Passion(){
             who were passionate about Bharatanatyam.
             </p>
             <p>
-            Bharatanatyam no bounds, so did I. Being a perseverant child, I wanted to educate myself more and I am currently doing by part-time Masters In Fine Arts with Annamalai University.
+            Bharatanatyam knew no bounds, so did I. Being a perseverant child, I wanted to educate myself more and I am currently doing by part-time Masters In Fine Arts with Annamalai University.
             </p>
 
             <div className="Passion-Content-Header">
