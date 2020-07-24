@@ -8,13 +8,15 @@ import b2 from './Blogs-pic/B2.png';
 import b3 from './Blogs-pic/B3.png';
 import b4 from './Blogs-pic/B4.png';
 import b5 from './Blogs-pic/B5.png';
+import b6 from './Blogs-pic/B6.png';
 
 const images = [
     {url: b1 },
     {url: b2 },
     {url: b3 },
     {url: b4 },
-    {url: b5 }
+    {url: b5 },
+    {url: b6 },
 ];
 
 function Profession(){
@@ -48,7 +50,7 @@ function Profession(){
                 {/* Image Slider */}
                 <div className="Blogs-Section-Content">
                     <div className="Image-Slider">
-                        <SimpleImageSlider width={800} height={504} images={images} />
+                        <SimpleImageSlider width={600} height={504} images={images} />
                     </div>
                     <div className="Links">
                         Read them here 👇<br/>
@@ -57,6 +59,7 @@ function Profession(){
                         <a href="https://medium.com/@girijavmohan/git-is-a-distributed-version-control-system-vcs-that-makes-it-easier-to-track-changes-to-files-a1cf3cf520ea" target="_blank" >Git</a><br/>
                         <a href="https://medium.com/@girijavmohan/create-project-using-rails-e20101536f81" target="_blank" >FBMS</a><br/>
                         <a href="https://medium.com/@girijavmohan/flight-boarding-management-system-fbms-644947d8c3d2" target="_blank" >FBMS ER Modeling</a><br/>
+                        <a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/>
                     </div>
                 </div>
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
