@@ -9,6 +9,7 @@ import b3 from './Blogs-pic/B3.png';
 import b4 from './Blogs-pic/B4.png';
 import b5 from './Blogs-pic/B5.png';
 import b6 from './Blogs-pic/B6.png';
+import b7 from './Blogs-pic/B7.png';
 
 const images = [
     {url: b1 },
@@ -17,6 +18,7 @@ const images = [
     {url: b4 },
     {url: b5 },
     {url: b6 },
+    {url: b7 }
 ];
 
 function Profession(){
@@ -60,6 +62,7 @@ function Profession(){
                         <a href="https://medium.com/@girijavmohan/create-project-using-rails-e20101536f81" target="_blank" >FBMS</a><br/>
                         <a href="https://medium.com/@girijavmohan/flight-boarding-management-system-fbms-644947d8c3d2" target="_blank" >FBMS ER Modeling</a><br/>
                         <a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/>
+                        <a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/>
                     </div>
                 </div>
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
