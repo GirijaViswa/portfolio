@@ -29,8 +29,8 @@ function App() {
             <ul>
               <li><a href="https://www.linkedin.com/in/girijaviswa" target="_blank"><i class="fa fa-linkedin"></i></a></li>&nbsp;&nbsp;
               <li><a href="mailto:girijavmohan@gmail.com" target="_blank"><i className="fa fa-envelope-o"></i></a></li>&nbsp;&nbsp;
-              {/* <li><a href=""><i class="fa fa-github"></i></a></li>&nbsp;&nbsp;
-              <li><a href=""><i class="fa fa-facebook-f"></i></a></li>&nbsp;&nbsp; */}
+               <li><a href="https://github.com/GirijaViswa" target="_blank"><i class="fa fa-github"></i></a></li>&nbsp;&nbsp;
+              {/*<li><a href=""><i class="fa fa-facebook-f"></i></a></li>&nbsp;&nbsp; */}
             </ul>
           </div>
         </div>
