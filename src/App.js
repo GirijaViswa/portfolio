@@ -20,9 +20,9 @@ function App() {
           {/* <i className="fa fa-envelope-o"></i> &nbsp;girijavmohan@gmail.com<br/> */}
           <div className="links">
               <ul>
-              <center><li><Link to="/about" className="Links">About</Link></li></center><br/>
-              <center><li><Link to="/profession" className="Links">Profession</Link></li></center><br/>
-              <center><li><Link to="/passion" className="Links">Passion</Link></li></center><br/>
+              <center><li><Link to="/portfolio/about" className="Links">About</Link></li></center><br/>
+              <center><li><Link to="/portfolio/profession" className="Links">Profession</Link></li></center><br/>
+              <center><li><Link to="/portfolio/passion" className="Links">Passion</Link></li></center><br/>
               </ul>
           </div>
           <div className="Side-bar-footer">
@@ -39,9 +39,9 @@ function App() {
       <div className="Main-content">
         
         <Switch>
-          <Route exact path="/about" component={About} active/>
-          <Route exact path="/profession" component={Profession} />
-          <Route exact path="/passion" component={Passion} />
+          <Route exact path="/portfolio/about" component={About} active/>
+          <Route exact path="/portfolio/profession" component={Profession} />
+          <Route exact path="/portfolio/passion" component={Passion} />
           <Route path="/" component={About} />
         </Switch>
 
