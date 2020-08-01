@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bda343943716cbc6044f3397ed4500c7",
+    "revision": "0ed80ae9047889906257af24ef00fd49",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "22f901a609fb06e2852b",
+    "revision": "12e0c79faa5ededaa6b5",
     "url": "/portfolio/static/css/2.3d60f3ae.chunk.css"
   },
   {
-    "revision": "f63850cad55da34095e9",
-    "url": "/portfolio/static/css/main.7b83ca65.chunk.css"
+    "revision": "f383bed3c3b9652dda36",
+    "url": "/portfolio/static/css/main.f5d9c9ee.chunk.css"
   },
   {
-    "revision": "22f901a609fb06e2852b",
-    "url": "/portfolio/static/js/2.508913c3.chunk.js"
+    "revision": "12e0c79faa5ededaa6b5",
+    "url": "/portfolio/static/js/2.a3a1cc1b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.508913c3.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.a3a1cc1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f63850cad55da34095e9",
-    "url": "/portfolio/static/js/main.97457da2.chunk.js"
+    "revision": "f383bed3c3b9652dda36",
+    "url": "/portfolio/static/js/main.2c444adf.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/d2.3c318df8.jpg"
   },
   {
+    "revision": "37d67ef0a14c8ec0f067092a457f95fe",
+    "url": "/portfolio/static/media/dome.37d67ef0.png"
+  },
+  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/portfolio/static/media/fontawesome-webfont.674f50d2.eot"
   },
@@ -92,11 +96,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
+    "revision": "06fb70122e454d3e45df6b06b3367304",
+    "url": "/portfolio/static/media/ftc.06fb7012.png"
+  },
+  {
     "revision": "2ea6cdc4d5fa4049b8c0f0bac609a355",
     "url": "/portfolio/static/media/kothaiFoods.2ea6cdc4.jpeg"
   },
   {
     "revision": "5937c08bb71ac7f74561e6d683c7e5ee",
     "url": "/portfolio/static/media/wipro-logo.5937c08b.jpg"
+  },
+  {
+    "revision": "30f8ca6fb0d8593d7df57d0a8805aa75",
+    "url": "/portfolio/static/media/wipro.30f8ca6f.jpeg"
   }
 ]);

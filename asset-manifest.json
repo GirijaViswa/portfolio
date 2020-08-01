@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7b83ca65.chunk.css",
-    "main.js": "/portfolio/static/js/main.97457da2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.97457da2.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f5d9c9ee.chunk.css",
+    "main.js": "/portfolio/static/js/main.2c444adf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2c444adf.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
     "static/css/2.3d60f3ae.chunk.css": "/portfolio/static/css/2.3d60f3ae.chunk.css",
-    "static/js/2.508913c3.chunk.js": "/portfolio/static/js/2.508913c3.chunk.js",
-    "static/js/2.508913c3.chunk.js.map": "/portfolio/static/js/2.508913c3.chunk.js.map",
+    "static/js/2.a3a1cc1b.chunk.js": "/portfolio/static/js/2.a3a1cc1b.chunk.js",
+    "static/js/2.a3a1cc1b.chunk.js.map": "/portfolio/static/js/2.a3a1cc1b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.5f85d16bd1f1e37e47f6dd9276888949.js": "/portfolio/precache-manifest.5f85d16bd1f1e37e47f6dd9276888949.js",
+    "precache-manifest.1384dc2ae776c1ffff68afc85243b292.js": "/portfolio/precache-manifest.1384dc2ae776c1ffff68afc85243b292.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.3d60f3ae.chunk.css.map": "/portfolio/static/css/2.3d60f3ae.chunk.css.map",
-    "static/css/main.7b83ca65.chunk.css.map": "/portfolio/static/css/main.7b83ca65.chunk.css.map",
-    "static/js/2.508913c3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.508913c3.chunk.js.LICENSE.txt",
+    "static/css/main.f5d9c9ee.chunk.css.map": "/portfolio/static/css/main.f5d9c9ee.chunk.css.map",
+    "static/js/2.a3a1cc1b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a3a1cc1b.chunk.js.LICENSE.txt",
     "static/media/B1.png": "/portfolio/static/media/B1.906ee164.png",
     "static/media/B2.png": "/portfolio/static/media/B2.05511443.png",
     "static/media/B3.png": "/portfolio/static/media/B3.41ffd425.png",
@@ -25,15 +25,18 @@
     "static/media/GV1.jpeg": "/portfolio/static/media/GV1.89b16c92.jpeg",
     "static/media/GirijaViswa-Resume.pdf": "/portfolio/static/media/GirijaViswa-Resume.5c5bb629.pdf",
     "static/media/d2.jpg": "/portfolio/static/media/d2.3c318df8.jpg",
+    "static/media/dome.png": "/portfolio/static/media/dome.37d67ef0.png",
     "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ftc.png": "/portfolio/static/media/ftc.06fb7012.png",
     "static/media/kothaiFoods.jpeg": "/portfolio/static/media/kothaiFoods.2ea6cdc4.jpeg",
-    "static/media/wipro-logo.jpg": "/portfolio/static/media/wipro-logo.5937c08b.jpg"
+    "static/media/wipro-logo.jpg": "/portfolio/static/media/wipro-logo.5937c08b.jpg",
+    "static/media/wipro.jpeg": "/portfolio/static/media/wipro.30f8ca6f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4f2abbf.js",
     "static/css/2.3d60f3ae.chunk.css",
-    "static/js/2.508913c3.chunk.js",
-    "static/css/main.7b83ca65.chunk.css",
-    "static/js/main.97457da2.chunk.js"
+    "static/js/2.a3a1cc1b.chunk.js",
+    "static/css/main.f5d9c9ee.chunk.css",
+    "static/js/main.2c444adf.chunk.js"
   ]
 }
