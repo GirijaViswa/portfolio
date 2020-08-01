@@ -3,6 +3,9 @@ import '../ToStyleCompo.css';
 import SimpleImageSlider from "react-simple-image-slider";
 import ft from './Exp-pic/ft.png';
 import wt from './Exp-pic/wipro-logo.jpg';
+import wta from './Exp-pic/wipro.jpeg';
+import ftc from './Exp-pic/ftc.png';
+import dome from './Exp-pic/dome.png';
 import b1 from './Blogs-pic/B1.png';
 import b2 from './Blogs-pic/B2.png';
 import b3 from './Blogs-pic/B3.png';
@@ -125,8 +128,23 @@ function Profession(){
                             My journey continues ...
                         </ul>
                     </div>
+                </div><hr/>
 
+{/* Certificates and Awards */}
+<div className="Certificates-Section">
+                    <h3>Certificates and Awards</h3>
+                    <div className="Certificates">
+                        <ul>
+                        <li><img src={ftc} alt="Flatiron School course completion certificate" /></li>
+                        <li><img src={wta} alt="Award at Wipro Technologies" /></li>
+                        <li><a href="https://www.testdome.com/cert/6eefde08b0e140a5a000b30d5c6682f6" class="testdome-certificate-stamp silver" target="_blank"><img src={dome} alt="test Dome certificate" /></a></li>
+                        </ul>
+                    </div>
+                    
                 </div>
+                <br/>
+                <hr/>
+
             </div>
         </div>
         

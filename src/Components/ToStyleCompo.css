@@ -57,7 +57,7 @@
     font-weight: bold;
     
 }
-.Blogs-Section, .Experience, .Project-Section{
+.Blogs-Section, .Experience, .Project-Section, .Certificates-Section{
     padding: 2%;
 }
 .Blogs-Section-Content{
@@ -143,4 +143,21 @@
 }
 .Intro h2 span{
     color: rgb(223, 44, 44);
+}
+.Certificates{
+    padding: 2%;
+}
+.Certificates ul li{
+    padding: 1%;
+    max-width: auto;
+    max-height: auto;
+}
+.Certificates ul li img{
+    width: 30%;
+    height: 40%;
+}
+.Certificates ul{
+    list-style: none;
+    display: grid;
+    grid-template: 1fr 1fr ;
 }
