@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f5d9c9ee.chunk.css",
-    "main.js": "/portfolio/static/js/main.2c444adf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2c444adf.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9dd880dd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9dd880dd.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
     "static/css/2.3d60f3ae.chunk.css": "/portfolio/static/css/2.3d60f3ae.chunk.css",
-    "static/js/2.a3a1cc1b.chunk.js": "/portfolio/static/js/2.a3a1cc1b.chunk.js",
-    "static/js/2.a3a1cc1b.chunk.js.map": "/portfolio/static/js/2.a3a1cc1b.chunk.js.map",
+    "static/js/2.55bf2e30.chunk.js": "/portfolio/static/js/2.55bf2e30.chunk.js",
+    "static/js/2.55bf2e30.chunk.js.map": "/portfolio/static/js/2.55bf2e30.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.1384dc2ae776c1ffff68afc85243b292.js": "/portfolio/precache-manifest.1384dc2ae776c1ffff68afc85243b292.js",
+    "precache-manifest.d003f75c2b2f80b099507bcfdd8857ff.js": "/portfolio/precache-manifest.d003f75c2b2f80b099507bcfdd8857ff.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.3d60f3ae.chunk.css.map": "/portfolio/static/css/2.3d60f3ae.chunk.css.map",
     "static/css/main.f5d9c9ee.chunk.css.map": "/portfolio/static/css/main.f5d9c9ee.chunk.css.map",
-    "static/js/2.a3a1cc1b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a3a1cc1b.chunk.js.LICENSE.txt",
+    "static/js/2.55bf2e30.chunk.js.LICENSE.txt": "/portfolio/static/js/2.55bf2e30.chunk.js.LICENSE.txt",
     "static/media/B1.png": "/portfolio/static/media/B1.906ee164.png",
     "static/media/B2.png": "/portfolio/static/media/B2.05511443.png",
     "static/media/B3.png": "/portfolio/static/media/B3.41ffd425.png",
@@ -21,6 +21,7 @@
     "static/media/B5.png": "/portfolio/static/media/B5.dc89aca7.png",
     "static/media/B6.png": "/portfolio/static/media/B6.6e518d0c.png",
     "static/media/B7.png": "/portfolio/static/media/B7.0f30afc1.png",
+    "static/media/B8.png": "/portfolio/static/media/B8.b1ebc6c7.png",
     "static/media/GV-closeup.jpeg": "/portfolio/static/media/GV-closeup.3cf23a59.jpeg",
     "static/media/GV1.jpeg": "/portfolio/static/media/GV1.89b16c92.jpeg",
     "static/media/GirijaViswa-Resume.pdf": "/portfolio/static/media/GirijaViswa-Resume.5c5bb629.pdf",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.f4f2abbf.js",
     "static/css/2.3d60f3ae.chunk.css",
-    "static/js/2.a3a1cc1b.chunk.js",
+    "static/js/2.55bf2e30.chunk.js",
     "static/css/main.f5d9c9ee.chunk.css",
-    "static/js/main.2c444adf.chunk.js"
+    "static/js/main.9dd880dd.chunk.js"
   ]
 }
