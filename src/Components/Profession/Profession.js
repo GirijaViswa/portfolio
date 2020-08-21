@@ -55,7 +55,7 @@ function Profession(){
                 <div className="Blogs-Section">
                     <h3>My Blogs</h3>
                 {/* Image Slider */}
-                <div className="Blogs-Section-Content">
+                {/* <div className="Blogs-Section-Content">
                     <div className="Image-Slider">
                         <SimpleImageSlider width={600} height={504} images={images} />
                     </div>
@@ -70,7 +70,23 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
                         </ul></div>
-                </div>
+                </div> */}
+                
+                    <div className="Image-Slider">
+                        <SimpleImageSlider width={800} height={504} images={images} />
+                    </div>
+                    <div className="Links">
+                        Read them here 👇<br/><ul>
+                        <li><a href="https://medium.com/@girijavmohan/redux-is-one-of-the-hottest-libraries-in-front-end-development-these-days-redux-98d9044b695c" target="_blank">Redux</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/explore-react-hooks-dbc496028783" target="_blank">Explore React Hooks</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/git-is-a-distributed-version-control-system-vcs-that-makes-it-easier-to-track-changes-to-files-a1cf3cf520ea" target="_blank" >Git</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/create-project-using-rails-e20101536f81" target="_blank" >FBMS</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/flight-boarding-management-system-fbms-644947d8c3d2" target="_blank" >FBMS ER Modeling</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
+                        </ul></div>
+                
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
                     {/* <Slider slides={images} /> */}
                 </div>
