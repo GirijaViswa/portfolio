@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8cea1acae5ec45e3c713d88d5b736ad",
+    "revision": "7b22b6f0cbf30517f5742c4a437b820c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "04faefe9095cb3fbcf7e",
+    "revision": "9485d57eb79eba0692db",
     "url": "/portfolio/static/css/2.3d60f3ae.chunk.css"
   },
   {
-    "revision": "a9a4620b4391ed51778c",
-    "url": "/portfolio/static/css/main.81ebbcd5.chunk.css"
+    "revision": "5920e7314e625cb4e8d9",
+    "url": "/portfolio/static/css/main.422304cf.chunk.css"
   },
   {
-    "revision": "04faefe9095cb3fbcf7e",
-    "url": "/portfolio/static/js/2.55bf2e30.chunk.js"
+    "revision": "9485d57eb79eba0692db",
+    "url": "/portfolio/static/js/2.0eaf1cab.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.55bf2e30.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.0eaf1cab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9a4620b4391ed51778c",
-    "url": "/portfolio/static/js/main.502416de.chunk.js"
+    "revision": "5920e7314e625cb4e8d9",
+    "url": "/portfolio/static/js/main.ce46999a.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/wipro-logo.5937c08b.jpg"
   },
   {
-    "revision": "30f8ca6fb0d8593d7df57d0a8805aa75",
-    "url": "/portfolio/static/media/wipro.30f8ca6f.jpeg"
+    "revision": "a2fdbec7a9f90ca27e2479949c5dedf2",
+    "url": "/portfolio/static/media/wipro.a2fdbec7.jpeg"
   }
 ]);
