@@ -14,6 +14,7 @@ import b5 from './Blogs-pic/B5.png';
 import b6 from './Blogs-pic/B6.png';
 import b7 from './Blogs-pic/B7.png';
 import b8 from './Blogs-pic/B8.png';
+import b9 from './Blogs-pic/B9.png';
 
 const images = [
     {url: b1 },
@@ -23,7 +24,8 @@ const images = [
     {url: b5 },
     {url: b6 },
     {url: b7 },
-    {url: b8 }
+    {url: b8 },
+    {url: b9 }
 ];
 
 const certificateImages = [
@@ -92,6 +94,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
                         </ul></div>
                 
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
