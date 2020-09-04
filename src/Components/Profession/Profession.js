@@ -95,6 +95,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/real-time-examples-for-ls-bs-hash-a63c8e56e2ad" target="_blank" >Real time examples for Linear,Binary Search,Hash table</a><br/></li>
                         </ul></div>
                 
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
