@@ -15,6 +15,7 @@ import b6 from './Blogs-pic/B6.png';
 import b7 from './Blogs-pic/B7.png';
 import b8 from './Blogs-pic/B8.png';
 import b9 from './Blogs-pic/B9.png';
+import b10 from './Blogs-pic/B10.png';
 
 const images = [
     {url: b1 },
@@ -25,7 +26,8 @@ const images = [
     {url: b6 },
     {url: b7 },
     {url: b8 },
-    {url: b9 }
+    {url: b9 },
+    {url: b10 }
 ];
 
 const certificateImages = [
