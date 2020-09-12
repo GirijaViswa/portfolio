@@ -16,6 +16,7 @@ import b7 from './Blogs-pic/B7.png';
 import b8 from './Blogs-pic/B8.png';
 import b9 from './Blogs-pic/B9.png';
 import b10 from './Blogs-pic/B10.png';
+import b11 from './Blogs-pic/B10.png';
 
 const images = [
     {url: b1 },
@@ -27,7 +28,8 @@ const images = [
     {url: b7 },
     {url: b8 },
     {url: b9 },
-    {url: b10 }
+    {url: b10 },
+    {url: b11 }
 ];
 
 const certificateImages = [
@@ -98,6 +100,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/real-time-examples-for-ls-bs-hash-a63c8e56e2ad" target="_blank" >Real time examples for Linear,Binary Search,Hash table</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/queue-84bd5c54821" target="_blank" >Queue - Data Structure</a><br/></li>
                         </ul></div>
                 
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
