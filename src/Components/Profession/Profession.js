@@ -101,6 +101,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/real-time-examples-for-ls-bs-hash-a63c8e56e2ad" target="_blank" >Real time examples for Linear,Binary Search,Hash table</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/queue-84bd5c54821" target="_blank" >Queue - Data Structure</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/stack-bc9bb7a61e82" target="_blank" >Stack - Data Structure</a><br/></li>
                         </ul></div>
                 
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
