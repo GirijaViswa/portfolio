@@ -19,6 +19,7 @@ import b10 from './Blogs-pic/B10.png';
 import b11 from './Blogs-pic/B11.png';
 import b12 from './Blogs-pic/B12.png';
 import b13 from './Blogs-pic/B13.png';
+import b14 from './Blogs-pic/B14.png';
 
 const images = [
     {url: b1 },
@@ -33,7 +34,8 @@ const images = [
     {url: b10 },
     {url: b11 },
     {url: b12 },
-    {url: b13 }
+    {url: b13 },
+    {url: b14 }
 ];
 
 const certificateImages = [
