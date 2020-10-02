@@ -161,6 +161,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.Links ul li a{
+    padding: 1%;
+}
 .Certificates-ImageSlider{
     height: auto;
     width: 70%;
