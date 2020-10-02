@@ -163,6 +163,7 @@
 }
 .Links ul li a{
     padding: 1%;
+    word-wrap: break-word;
 }
 .Certificates-ImageSlider{
     height: auto;
