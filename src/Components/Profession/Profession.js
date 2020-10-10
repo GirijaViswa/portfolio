@@ -112,7 +112,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/stack-bc9bb7a61e82" target="_blank" >Stack - Data Structure</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/difference-between-stack-and-queue-df5e6451768f" target="_blank" >Difference between Queues and Stacks</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
                         </ul></div>
                 
                     {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
