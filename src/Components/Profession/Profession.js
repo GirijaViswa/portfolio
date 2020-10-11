@@ -50,7 +50,7 @@ const certificateImages = [
 function Profession(){
     return(
         <div className="Profession-Content">
-            <h1>My Profession ...</h1>
+            <h1>My Profession </h1>
             <div className="Profession-Maintext">
 {/* Skills set  */}
                 <h3>Skills-set</h3>
