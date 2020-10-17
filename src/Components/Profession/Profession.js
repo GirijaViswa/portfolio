@@ -38,7 +38,8 @@ const images = [
     {url: b12 },
     {url: b13 },
     {url: b14 },
-    {url: b15 }
+    {url: b15 },
+    {url: b16 }
 ];
 
 const certificateImages = [
