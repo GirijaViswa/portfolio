@@ -118,8 +118,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
                         </ul></div>
                 
-                    {/* <SimpleImageSlider width={800} height={504} images={images} /> */}
-                    {/* <Slider slides={images} /> */}
+                    
                 </div>
                 <br/>
                 <hr/>
