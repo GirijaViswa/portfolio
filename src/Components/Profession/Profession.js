@@ -118,7 +118,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Hoisting</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
+                        <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" > Currying - Javascript </a><br/></li>
                         </ul></div>
                 
                     
