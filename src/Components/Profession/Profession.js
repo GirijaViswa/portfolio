@@ -82,12 +82,6 @@ function Profession(){
                 <div className="Blogs-Section">
                     <h3>My Blogs</h3>
                 {/* Image Slider */}
-                {/* <div className="Blogs-Section-Content">
-                    <div className="Image-Slider">
-                        <SimpleImageSlider width={600} height={504} images={images} />
-                    </div>
-                   
-                </div> */}
                 
                     <div className="Image-Slider">
                         <SimpleImageSlider width={800} height={504} images={images} />
