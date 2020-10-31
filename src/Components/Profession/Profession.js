@@ -23,6 +23,7 @@ import b14 from './Blogs-pic/B14.png';
 import b15 from './Blogs-pic/B15.png';
 import b16 from './Blogs-pic/B16.png';
 import b17 from './Blogs-pic/B17.png';
+import b18 from './Blogs-pic/B18.png';
 
 const images = [
     {url: b1 },
