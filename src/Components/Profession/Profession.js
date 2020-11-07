@@ -47,6 +47,15 @@ const images = [
     {url: b18 }
 ];
 
+const dsImages = [
+    {url: b8 },
+    {url: b9 },
+    {url: b10 },
+    {url: b11 },
+    {url: b12 },
+    {url: b13 }
+];
+
 const certificateImages = [
     {url: wta },
     {url: ftc },
@@ -112,6 +121,9 @@ function Profession(){
 
                         Blogs on Data Structures
 
+                        <div className="Image-Slider">
+                        <SimpleImageSlider width={800} height={504} images={dsImages} />
+                        </div>
                         <div className="Links">
                         Read them here 👇<br/><ul>
                         <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
