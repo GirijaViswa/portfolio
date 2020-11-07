@@ -6,24 +6,25 @@ import wt from './Exp-pic/wipro-logo.jpg';
 import wta from './Exp-pic/wipro.jpeg';
 import ftc from './Exp-pic/ftc.png';
 import dome from './Exp-pic/dome.png';
-// import b1 from './Blogs-pic/B1.png';
-// import b2 from './Blogs-pic/B2.png';
-// import b3 from './Blogs-pic/B3.png';
-// import b4 from './Blogs-pic/B4.png';
-// import b5 from './Blogs-pic/B5.png';
-// import b6 from './Blogs-pic/B6.png';
-// import b7 from './Blogs-pic/B7.png';
-// import b8 from './Blogs-pic/B8.png';
-// import b9 from './Blogs-pic/B9.png';
-// import b10 from './Blogs-pic/B10.png';
-// import b11 from './Blogs-pic/B11.png';
-// import b12 from './Blogs-pic/B12.png';
-// import b13 from './Blogs-pic/B13.png';
-// import b14 from './Blogs-pic/B14.png';
-// import b15 from './Blogs-pic/B15.png';
-// import b16 from './Blogs-pic/B16.png';
-// import b17 from './Blogs-pic/B17.png';
-// import b18 from './Blogs-pic/B18.png';
+import b1 from './Blogs-pic/B1.png';
+import b2 from './Blogs-pic/B2.png';
+import b3 from './Blogs-pic/B3.png';
+import b4 from './Blogs-pic/B4.png';
+import b5 from './Blogs-pic/B5.png';
+import b6 from './Blogs-pic/B6.png';
+import b7 from './Blogs-pic/B7.png';
+import b8 from './Blogs-pic/B8.png';
+import b9 from './Blogs-pic/B9.png';
+import b10 from './Blogs-pic/B10.png';
+import b11 from './Blogs-pic/B11.png';
+import b12 from './Blogs-pic/B12.png';
+import b13 from './Blogs-pic/B13.png';
+import b14 from './Blogs-pic/B14.png';
+import b15 from './Blogs-pic/B15.png';
+import b16 from './Blogs-pic/B16.png';
+import b17 from './Blogs-pic/B17.png';
+import b18 from './Blogs-pic/B18.png';
+
 
 const images = [
     {url: b1 },
