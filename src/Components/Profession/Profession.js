@@ -83,7 +83,7 @@ function Profession(){
                 <div className="Blogs-Section">
                     <h3>My Blogs</h3>
                 {/* Image Slider */}
-                
+                    Blogs on Data Structures
                     <div className="Image-Slider">
                         <SimpleImageSlider width={800} height={504} images={images} />
                     </div>
@@ -109,6 +109,9 @@ function Profession(){
                         <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li>
                         </ul></div>
                 
+
+                        Blogs on Data Structures
+
                     
                 </div>
                 <br/>
