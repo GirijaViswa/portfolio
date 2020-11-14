@@ -190,9 +190,6 @@ function Profession(){
                         <li><img src={wta} alt="Award at Wipro Technologies" /></li>
                         <li><a href="https://www.testdome.com/cert/6eefde08b0e140a5a000b30d5c6682f6" class="testdome-certificate-stamp silver" target="_blank"><img src={dome} alt="test Dome certificate" /></a></li>
                         </ul>
-                    {/* <div className="Certificates-ImageSlider">
-                        <SimpleImageSlider width={1200} height={1504} images={certificateImages} />
-                    </div> */}
                     </div>
                     
                 </div>
