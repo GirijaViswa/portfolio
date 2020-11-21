@@ -88,6 +88,20 @@ function Profession(){
 
 {/* Blogs on Data Structures */}
 
+                <h3>Blogs on Data Structures</h3>
+
+                <div className="Image-Slider">
+                    <SimpleImageSlider width={800} height={504} images={dsImages} />
+                </div>
+                <div className="Links">
+                Read them here 👇<br/><ul>
+                <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/real-time-examples-for-ls-bs-hash-a63c8e56e2ad" target="_blank" >Real time examples for Linear,Binary Search,Hash table</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/queue-84bd5c54821" target="_blank" >Queue - Data Structure</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/stack-bc9bb7a61e82" target="_blank" >Stack - Data Structure</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/difference-between-stack-and-queue-df5e6451768f" target="_blank" >Difference between Queues and Stacks</a><br/></li>
+                </ul></div>
 
 {/* Blogs on React */}
 
