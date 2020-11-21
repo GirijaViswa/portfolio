@@ -87,7 +87,7 @@ function Profession(){
                     <h3>My Blogs</h3>
 
 {/* Blogs on Data Structures */}
-
+                <hr/>
                 <h3>Blogs on Data Structures</h3>
 
                 <div className="Image-Slider">
@@ -104,6 +104,7 @@ function Profession(){
                 </ul></div>
 
 {/* Blogs on React */}
+                <hr/>
 
 
 {/* General Blogs */}
