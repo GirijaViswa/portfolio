@@ -131,7 +131,7 @@ function Profession(){
                         </ul></div>
                 
 
-                        Blogs on Data Structures
+                        {/* Blogs on Data Structures
 
                         <div className="Image-Slider">
                         <SimpleImageSlider width={800} height={504} images={dsImages} />
@@ -144,7 +144,7 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/queue-84bd5c54821" target="_blank" >Queue - Data Structure</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/stack-bc9bb7a61e82" target="_blank" >Stack - Data Structure</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/difference-between-stack-and-queue-df5e6451768f" target="_blank" >Difference between Queues and Stacks</a><br/></li>
-                        </ul></div>
+                        </ul></div> */}
                     
                 </div>
                 <br/>
