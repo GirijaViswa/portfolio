@@ -27,18 +27,29 @@ import b18 from './Blogs-pic/B18.png';
 
 
 const images = [
-    {url: b1 },
-    {url: b2 },
+    // {url: b1 },
+    // {url: b2 },
     {url: b3 },
     {url: b4 },
     {url: b5 },
     {url: b6 },
-    {url: b7 },
+    {url: b7 }
+    // {url: b14 },
+    // {url: b15 },
+    // {url: b16 },
+    // {url: b17 },
+    // {url: b18 }
+];
+
+const reactImages = [
+    {url: b1 },
+    {url: b2 },
     {url: b14 },
     {url: b15 },
     {url: b16 },
     {url: b17 },
     {url: b18 }
+
 ];
 
 const dsImages = [
@@ -106,29 +117,47 @@ function Profession(){
 {/* Blogs on React */}
                 <hr/>
 
+                <h5>Blogs on React and Javscript</h5>
+
+                <div className="Image-Slider">
+                <SimpleImageSlider width={800} height={504} images={reactImages} />
+                </div>
+                <div className="Links-react">
+                Read them here 👇<br/><ul>
+
+                <li><a href="https://medium.com/@girijavmohan/redux-is-one-of-the-hottest-libraries-in-front-end-development-these-days-redux-98d9044b695c" target="_blank">Redux</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/explore-react-hooks-dbc496028783" target="_blank">Explore React Hooks</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Hoisting</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
+                <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" > Understanding Currying in Javascript </a><br/></li>
+                <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li>  
+                    
+                </ul></div>
 
 {/* General Blogs */}
 
 
                 {/* Image Slider */}
-                <h3>Blogs on React</h3>
+                <hr/>
+                <h5>Other Technical Blogs</h5>
                     <div className="Image-Slider">
                         <SimpleImageSlider width={800} height={504} images={images} />
                     </div>
-                    <div className="Links">
+                    <div className="Links-general">
                         Read them here 👇<br/><ul>
-                        <li><a href="https://medium.com/@girijavmohan/redux-is-one-of-the-hottest-libraries-in-front-end-development-these-days-redux-98d9044b695c" target="_blank">Redux</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/explore-react-hooks-dbc496028783" target="_blank">Explore React Hooks</a><br/></li>
+                        {/* <li><a href="https://medium.com/@girijavmohan/redux-is-one-of-the-hottest-libraries-in-front-end-development-these-days-redux-98d9044b695c" target="_blank">Redux</a><br/></li> */}
+                        {/* <li><a href="https://medium.com/@girijavmohan/explore-react-hooks-dbc496028783" target="_blank">Explore React Hooks</a><br/></li> */}
                         <li><a href="https://medium.com/@girijavmohan/git-is-a-distributed-version-control-system-vcs-that-makes-it-easier-to-track-changes-to-files-a1cf3cf520ea" target="_blank" >Git</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/create-project-using-rails-e20101536f81" target="_blank" >FBMS</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/flight-boarding-management-system-fbms-644947d8c3d2" target="_blank" >FBMS ER Modeling</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
+                        {/* <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Hoisting</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" > Understanding Currying in Javascript </a><br/></li>
-                        <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li>
+                        <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li> */}
                         </ul></div>
                 
 
