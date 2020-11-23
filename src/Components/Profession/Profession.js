@@ -63,7 +63,7 @@ function Profession(){
             <h1>My Profession </h1>
             <div className="Profession-Maintext">
 {/* Skills set  */}
-                <h3>Skills-set</h3>
+                <h3>Technical Skills-set</h3>
                 <div className="Skillset">
                     <ul>
                         <li>Ruby</li>
@@ -93,7 +93,7 @@ function Profession(){
                 <div className="Image-Slider">
                     <SimpleImageSlider width={800} height={504} images={dsImages} />
                 </div>
-                <div className="Links">
+                <div className="Links-ds">
                 Read them here 👇<br/><ul>
                 <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
                 <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
