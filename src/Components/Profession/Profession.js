@@ -87,8 +87,8 @@ function Profession(){
                     <h3>My Blogs</h3>
 
 {/* Blogs on Data Structures */}
-                <hr/>
-                <h3>Blogs on Data Structures</h3>
+                
+                <h5>Blogs on Data Structures</h5>
 
                 <div className="Image-Slider">
                     <SimpleImageSlider width={800} height={504} images={dsImages} />
