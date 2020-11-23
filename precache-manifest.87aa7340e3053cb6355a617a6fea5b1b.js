@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aec03cff1ac843dbde103ae75277919",
+    "revision": "7d697be9e7e2b7f964fdee0717a0c490",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "106c6f51cebf325de6a7",
+    "revision": "d8cc889de2e42a8e37c0",
     "url": "/portfolio/static/css/2.3d60f3ae.chunk.css"
   },
   {
-    "revision": "eb15e14beb86f5a00e23",
+    "revision": "ca638e59d734722df190",
     "url": "/portfolio/static/css/main.e3e114cd.chunk.css"
   },
   {
-    "revision": "106c6f51cebf325de6a7",
-    "url": "/portfolio/static/js/2.8c9ca105.chunk.js"
+    "revision": "d8cc889de2e42a8e37c0",
+    "url": "/portfolio/static/js/2.e78ada03.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.8c9ca105.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.e78ada03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb15e14beb86f5a00e23",
-    "url": "/portfolio/static/js/main.7a968ecf.chunk.js"
+    "revision": "ca638e59d734722df190",
+    "url": "/portfolio/static/js/main.a6104498.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
@@ -106,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "89b16c927f54499c40f8fd98432b092e",
     "url": "/portfolio/static/media/GV1.89b16c92.jpeg"
-  },
-  {
-    "revision": "5c5bb629353c08ba56c7f2002706ccc7",
-    "url": "/portfolio/static/media/GirijaViswa-Resume.5c5bb629.pdf"
   },
   {
     "revision": "3c318df8a68e866b7471468a0c9ca2f5",
