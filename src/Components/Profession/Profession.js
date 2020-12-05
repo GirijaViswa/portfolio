@@ -24,6 +24,7 @@ import b15 from './Blogs-pic/B15.png';
 import b16 from './Blogs-pic/B16.png';
 import b17 from './Blogs-pic/B17.png';
 import b18 from './Blogs-pic/B18.png';
+import b19 from './Blogs-pic/B19.png';
 
 
 const images = [
@@ -48,7 +49,8 @@ const reactImages = [
     {url: b15 },
     {url: b16 },
     {url: b17 },
-    {url: b18 }
+    {url: b18 },
+    {url: b19 }
 
 ];
 
