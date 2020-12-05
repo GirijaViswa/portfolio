@@ -133,7 +133,8 @@ function Profession(){
                 <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Hoisting</a><br/></li>
                 <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
                 <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" > Understanding Currying in Javascript </a><br/></li>
-                <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li>  
+                <li><a href="https://girijavmohan.medium.com/understanding-javascript-closures-cb4694029299" target="_blank" > Understanding Javascript Closures</a><br/></li>  
+                <li><a href="https://girijavmohan.medium.com/reversing-a-string-in-javascript-d51d1851ad9c" target="_blank" > Reversing a String in Javascript</a><br/></li>  
                     
                 </ul></div>
 
