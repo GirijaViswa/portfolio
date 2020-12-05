@@ -25,6 +25,7 @@ import b16 from './Blogs-pic/B16.png';
 import b17 from './Blogs-pic/B17.png';
 import b18 from './Blogs-pic/B18.png';
 import b19 from './Blogs-pic/B19.png';
+import b20 from './Blogs-pic/B20.png';
 
 
 const images = [
@@ -34,7 +35,8 @@ const images = [
     {url: b4 },
     {url: b5 },
     {url: b6 },
-    {url: b7 }
+    {url: b7 },
+    {url: b20 }
     // {url: b14 },
     // {url: b15 },
     // {url: b16 },
