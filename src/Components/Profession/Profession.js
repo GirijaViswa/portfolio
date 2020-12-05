@@ -29,19 +29,12 @@ import b20 from './Blogs-pic/B20.png';
 
 
 const images = [
-    // {url: b1 },
-    // {url: b2 },
     {url: b3 },
     {url: b4 },
     {url: b5 },
     {url: b6 },
     {url: b7 },
     {url: b20 }
-    // {url: b14 },
-    // {url: b15 },
-    // {url: b16 },
-    // {url: b17 },
-    // {url: b18 }
 ];
 
 const reactImages = [
@@ -151,36 +144,14 @@ function Profession(){
                     </div>
                     <div className="Links-general">
                         Read them here 👇<br/><ul>
-                        {/* <li><a href="https://medium.com/@girijavmohan/redux-is-one-of-the-hottest-libraries-in-front-end-development-these-days-redux-98d9044b695c" target="_blank">Redux</a><br/></li> */}
-                        {/* <li><a href="https://medium.com/@girijavmohan/explore-react-hooks-dbc496028783" target="_blank">Explore React Hooks</a><br/></li> */}
                         <li><a href="https://medium.com/@girijavmohan/git-is-a-distributed-version-control-system-vcs-that-makes-it-easier-to-track-changes-to-files-a1cf3cf520ea" target="_blank" >Git</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/create-project-using-rails-e20101536f81" target="_blank" >FBMS</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/flight-boarding-management-system-fbms-644947d8c3d2" target="_blank" >FBMS ER Modeling</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
                         <li><a href="https://girijavmohan.medium.com/object-oriented-concepts-f972831279a2" target="_blank" >Object Oriented Concepts</a><br/></li>
-                        {/* <li><a href="https://medium.com/@girijavmohan/difference-between-var-let-and-const-in-javascript-861b0df01529" target="_blank" >Difference between var, let and const javascript variables</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/what-is-hoisting-e25e839b06e" target="_blank" >Hoisting</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/regular-functions-vs-arrow-functions-497156662f07" target="_blank" >Regular Functions vs Arrow Functions</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/currying-in-javascript-1feddbb4a431" target="_blank" > Understanding Currying in Javascript </a><br/></li>
-                        <li><a href="https://girijavmohan.medium.com/" target="_blank" > Understanding Javascript Closures</a><br/></li> */}
+                        
                         </ul></div>
-                
-
-                        {/* Blogs on Data Structures
-
-                        <div className="Image-Slider">
-                        <SimpleImageSlider width={800} height={504} images={dsImages} />
-                        </div>
-                        <div className="Links">
-                        Read them here 👇<br/><ul>
-                        <li><a href="https://medium.com/@girijavmohan/linear-search-binary-search-data-structure-814d0dc4651c" target="_blank" >Linear and Binary search</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/interpolation-search-7b10e2330e97" target="_blank" >Interpolation Search</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/real-time-examples-for-ls-bs-hash-a63c8e56e2ad" target="_blank" >Real time examples for Linear,Binary Search,Hash table</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/queue-84bd5c54821" target="_blank" >Queue - Data Structure</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/stack-bc9bb7a61e82" target="_blank" >Stack - Data Structure</a><br/></li>
-                        <li><a href="https://medium.com/@girijavmohan/difference-between-stack-and-queue-df5e6451768f" target="_blank" >Difference between Queues and Stacks</a><br/></li>
-                        </ul></div> */}
                     
                 </div>
                 <br/>
