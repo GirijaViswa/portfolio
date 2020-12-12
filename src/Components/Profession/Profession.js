@@ -26,6 +26,7 @@ import b17 from './Blogs-pic/B17.png';
 import b18 from './Blogs-pic/B18.png';
 import b19 from './Blogs-pic/B19.png';
 import b20 from './Blogs-pic/B20.png';
+import b21 from './Blogs-pic/B21.png';
 
 
 const images = [
