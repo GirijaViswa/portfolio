@@ -154,7 +154,8 @@ function Profession(){
                         <li><a href="https://medium.com/@girijavmohan/software-testing-a-sketch-6bfb89465818" target="_blank" >Software Testing</a><br/></li>
                         <li><a href="https://medium.com/@girijavmohan/unit-testing-6c7d51bb2456" target="_blank" >Unit Testing</a><br/></li>
                         <li><a href="https://girijavmohan.medium.com/object-oriented-concepts-f972831279a2" target="_blank" >Object Oriented Concepts</a><br/></li>
-                        <li><a href="https://girijavmohan.medium.com/git-commands-part-2-f548284eb462" target="_blank" >Git Commands</a><br/></li>
+                        <li><a href="https://girijavmohan.medium.com/git-commands-part-2-f548284eb462" target="_blank" >Git Commands Part - 2</a><br/></li>
+                        <li><a href="https://girijavmohan.medium.com/git-commands-part-3-dbbac0d8e310" target="_blank" >Git Commands Part - 3</a><br/></li>
                         
                         </ul></div>
                     
