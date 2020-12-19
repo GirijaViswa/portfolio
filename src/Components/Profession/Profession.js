@@ -40,7 +40,9 @@ const images = [
     {url: b7 },
     {url: b20 },
     {url: b21 },
-    {url: b22 }
+    {url: b22 },
+    {url: b23 },
+    {url: b24 }
 ];
 
 const reactImages = [
