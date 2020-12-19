@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3453b362dcfbf0b4b637c851a75f6602",
+    "revision": "d72caa44032c8a0d2cd252294d2140fd",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "be9125b3034ef8ad700a",
+    "revision": "5524a131403d380d8644",
     "url": "/portfolio/static/css/2.3d60f3ae.chunk.css"
   },
   {
-    "revision": "d6dae41ae1fa940333dc",
+    "revision": "ad539c98487ce6558857",
     "url": "/portfolio/static/css/main.e3e114cd.chunk.css"
   },
   {
-    "revision": "be9125b3034ef8ad700a",
-    "url": "/portfolio/static/js/2.03c6c7d9.chunk.js"
+    "revision": "5524a131403d380d8644",
+    "url": "/portfolio/static/js/2.076bc3fe.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.03c6c7d9.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.076bc3fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6dae41ae1fa940333dc",
-    "url": "/portfolio/static/js/main.8a93e4d5.chunk.js"
+    "revision": "ad539c98487ce6558857",
+    "url": "/portfolio/static/js/main.e58437a3.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
