@@ -160,6 +160,7 @@ function Profession(){
                         <li><a href="https://girijavmohan.medium.com/object-oriented-concepts-f972831279a2" target="_blank" >Object Oriented Concepts</a><br/></li>
                         <li><a href="https://girijavmohan.medium.com/git-commands-part-2-f548284eb462" target="_blank" >Git Commands Part - 2</a><br/></li>
                         <li><a href="https://girijavmohan.medium.com/git-commands-part-3-dbbac0d8e310" target="_blank" >Git Commands Part - 3</a><br/></li>
+                        <li><a href="https://girijavmohan.medium.com/memoization-eca0b00d3c1a" target="_blank" >Memoization</a><br/></li>
                         
                         </ul></div>
                     
