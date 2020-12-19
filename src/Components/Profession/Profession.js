@@ -29,6 +29,7 @@ import b20 from './Blogs-pic/B20.png';
 import b21 from './Blogs-pic/B21.png';
 import b22 from './Blogs-pic/B22.png';
 import b23 from './Blogs-pic/B23.png';
+import b24 from './Blogs-pic/B24.png';
 
 
 const images = [
